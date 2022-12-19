@@ -4,7 +4,7 @@ import api from "../api";
 import { movieActions } from "../reducers/movieReducer";
 
 //const APIkey = process.env.REACT_APP_APIKEY;
-const APIkey = c8be101385677250558cd17949c8a721;
+const APIkey = 'c8be101385677250558cd17949c8a721';
 //받아온 키 값을 노출되지 않게 만든다 -> 루트에 .env 파일
 //미들웨어는 함수가 함수를 리턴
 
